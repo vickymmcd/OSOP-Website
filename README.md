@@ -1,4 +1,6 @@
-# Accessible STEM Activity
+# Our Space Our Place
+
+### Accessible STEM Activity
 
 ## About Our Space, Our Place
 
@@ -14,7 +16,9 @@ Our goal is to inspire and empower students to find uses for STEM in their lives
 * Give students experience in team settings
 
 ### Our STEM Kit
- (alt text: A drawing of our STEM kit. Inside a large bin are six smaller bins, as well as several batteries, wheels, and foam blocks.)
+
+<img src="ourkit.png" alt="A drawing of our STEM kit. Inside a large bin are six smaller bins, as well as several batteries, wheels, and foam blocks.">
+
 
 ### Instructions
 
